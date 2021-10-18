@@ -9,6 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Doanchuyendedd2">
+        <activity android:name=".chitietphong"></activity>
+        <activity android:name=".datphongtheogio" />
+        <activity android:name=".datphongtheongay" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
